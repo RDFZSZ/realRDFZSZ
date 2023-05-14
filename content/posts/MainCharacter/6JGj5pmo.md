@@ -12,7 +12,7 @@ readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
-name: (base64)[6JGj5pmo]
-tag：【数据注释】<!--打jiao--> 被称可爱
-常用词汇：猴 ，pi(/)ge(-){多义} ,<!--打jiao-->
-【数据注释】<!--Honkai3rd,碧蓝档案,群星玩家-->
+name: (base64)[6JGj5pmo]<br>
+tag：【数据注释】<!--打jiao--> 被称可爱<br>
+常用词汇：猴 ，pi(/)ge(-){多义} ,<!--打jiao--><br>
+【数据注释】<!--Honkai3rd,碧蓝档案,群星玩家--><br>
