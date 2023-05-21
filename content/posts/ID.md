@@ -2,8 +2,8 @@
 title: "ID"
 date: 2023-05-21T09:04:10+08:00
 draft: true
-tags = ["open", "gay"]
-keywords = ["gay", "bully"]
+tags: ["open", "gay"]
+keywords: ["gay", "bully"]
 ---
 
 | 姓名   | ID                 | PH          | feature  |
