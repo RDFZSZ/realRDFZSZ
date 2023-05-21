@@ -38,8 +38,8 @@ summaryLength = 50
 [params.gitalk]
     clientID = "1c50c2c8ad46e55c6f5a" # Your client ID
     clientSecret = "cebaca2492176bb7d6ee27dcfc415c5a0be48d97" # Your client secret
-    repo = "realrdfz" # 您的博客的github地址Repository name，例如：xxxx.github.io
-    owner = "rdfzsz" # 您的GitHub ID
+    repo = "rdfz" # 您的博客的github地址Repository name，例如：xxxx.github.io
+    owner = "stevessrbackup" # 您的GitHub ID
     admin = "stevessrbackup" # 您的GitHub ID
     id = "location.pathname" # 文章页面的链接地址就是ID
     labels = "gitalk" # Github issue labels. If you used to use Gitment, you can change it
