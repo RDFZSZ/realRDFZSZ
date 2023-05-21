@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on RDFZ</title>
-    <link>https://rdfzsz.pages.dev/posts/</link>
-    <description>Recent content in Posts on RDFZ</description>
+    <title>长期骚扰他人 on RDFZ</title>
+    <link>https://rdfzsz.pages.dev/tags/%E9%95%BF%E6%9C%9F%E9%AA%9A%E6%89%B0%E4%BB%96%E4%BA%BA/</link>
+    <description>Recent content in 长期骚扰他人 on RDFZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 02 May 2023 12:04:26 +0800</lastBuildDate><atom:link href="https://rdfzsz.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 May 2023 12:04:26 +0800</lastBuildDate><atom:link href="https://rdfzsz.pages.dev/tags/%E9%95%BF%E6%9C%9F%E9%AA%9A%E6%89%B0%E4%BB%96%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022-2023高二（20）班记</title>
       <link>https://rdfzsz.pages.dev/posts/maincharacter/546l5l2z5ywd/</link>
@@ -50,15 +50,6 @@
       
       <guid>https://rdfzsz.pages.dev/posts/backcorecharacter/%E8%94%A1%E6%97%AD%E4%B8%9C/</guid>
       <description>name: 蔡旭东 tag: 排外主义者 ， 物化主义者 ， 精英主义者 ，学习很好 ， 【数据注释】洁癖 ID:440305____11120415 常用词汇：猴 ，pi(/)ge(-){多义} 常做的事：看书学习 ， 解疑答惑，“奴役”他人做事，扭曲事实，曲解知识 【数据注释】</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://rdfzsz.pages.dev/posts/hello-world/</link>
-      <pubDate>Tue, 02 May 2023 12:04:26 +0800</pubDate>
-      
-      <guid>https://rdfzsz.pages.dev/posts/hello-world/</guid>
-      <description>你好(@^0^@)/，世界！！ hugo开篇测试 self</description>
     </item>
     
   </channel>
