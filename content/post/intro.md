@@ -10,8 +10,9 @@ The World is a mess.
 
 # This is the word they used to refer to others in "public" secret.
 
-| 猴   | dramar | saber(赛博) | 黑猩猩 | pi(2、4声)ge(1声) |      |
-| ---- | ------ | ----------- | ------ | ----------------- | ---- |
+| 猴   | dramar | saber(赛博) | 黑猩猩 | pi(多声)ge(多声) | 大猩猩 |
+| ---- | ------ | ----------- | ------ | ---------------- | ------ |
+|      |        |             |        |                  |        |
 
 ## This their decision to make full use of others.
 
